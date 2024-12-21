@@ -90,10 +90,7 @@ def main():
     )
 
     # Plot Results
-    visualizer.plot(
-        save_animation=False,  # Set to True to save the animation
-        animation_filename='diffusion_2D.gif'
-    )
+    visualizer.plot()
 
 if __name__ == "__main__":
     main()
