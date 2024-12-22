@@ -121,18 +121,8 @@ Follow these instructions to set up and run the projects locally.
 3. **Install Dependencies**
 
    ```bash
-   pip install -r requirements.txt
-   ```
-
-   *If `requirements.txt` is not provided, install the necessary packages manually:*
-
-   ```bash
    pip install numpy matplotlib scikit-learn xgboost jupyter
    ```
-
-4. **Download Dataset**
-
-   Ensure that the `dataset/` directory contains all necessary data files required for Task 3. If not included, please obtain the dataset as per the assignment guidelines and place it in the `dataset/` folder.
 
 ## Usage
 
