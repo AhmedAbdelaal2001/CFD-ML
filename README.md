@@ -2,8 +2,6 @@
 
 **Exploring the Intersection Between Computational Fluid Dynamics and Machine Learning**
 
-![CFD-ML Banner](https://github.com/yourusername/CFD-ML/blob/main/banner.png)
-
 ## Table of Contents
 
 - [Overview](#overview)
