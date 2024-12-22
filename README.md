@@ -189,7 +189,9 @@ Follow these instructions to set up and run the projects locally.
 
 After running the diffusion simulation, snapshots of the scalar field at different time steps are saved in the `Task2/results/` directory. These images visualize how the scalar quantity diffuses over the domain.
 
-![Snapshot Example](https://github.com/yourusername/CFD-ML/blob/main/Task2/results/snapshot_0020.png)
+![snapshot_0040](https://github.com/user-attachments/assets/d7a86e93-39b6-4f0e-84e9-e73a8b77e6d0)
+![snapshot_0240](https://github.com/user-attachments/assets/d047871d-21cf-4654-88f8-e213a8b766be)
+
 
 ### Task 3: Model Performance
 
@@ -202,17 +204,14 @@ The Jupyter Notebook `RF_XGB_Comparison.ipynb` presents a comprehensive comparis
   | XGBoost        | 0.58                    |
   | Random Forest  | 0.71                    |
 
-  ![Training Times](https://github.com/yourusername/CFD-ML/blob/main/Task3/training_times.png)
+  ![training_times](https://github.com/user-attachments/assets/f232958d-7ffe-4016-8285-78666a3c4e1d)
+
 
 - **Prediction Accuracy:**
 
   Visual comparisons in the Barycentric triangle demonstrate the accuracy of each model in capturing the stress anisotropy.
 
-  ![Model Comparison](https://github.com/yourusername/CFD-ML/blob/main/Task3/model_comparison.png)
-
-## Contributing
-
-Contributions are welcome! If you have suggestions, improvements, or want to report issues, please open an [issue](https://github.com/yourusername/CFD-ML/issues) or submit a pull request.
+  ![image](https://github.com/user-attachments/assets/dd2e36bf-ff73-4c4a-8ebd-0842da42a4ff)
 
 ## License
 
